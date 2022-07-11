@@ -5,7 +5,6 @@ import telebot
 import win32com.client
 import pythoncom
 import os
-import openpyxl
 
 email = " "
 CHAVE_API = "TOKEN"
